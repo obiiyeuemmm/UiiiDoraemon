@@ -398,7 +398,7 @@ local libCreateNoti = function(Setting)
 	CloseImage.ImageColor3 = getgenv().UIColor["Search Icon Color"]
 
 	TextButton.Parent = CloseContainer
-	TextButton.BackgroundColor3 = Color3.fromRGB(230, 230, 230)
+	TextButton.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
 	TextButton.BackgroundTransparency = 1.000
 	TextButton.Size = UDim2.new(1, 0, 1, 0)
 	TextButton.Font = Enum.Font.SourceSans

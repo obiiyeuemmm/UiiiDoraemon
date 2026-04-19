@@ -19,7 +19,7 @@ local T1UIColor = {
 	["Click Effect Color"] = Blue,
 	["Setting Icon Color"] = Blue,
 
-	["Logo Image"] = "rbxassetid://76924610417991",
+	["Logo Image"] = "rbxassetid://122932159240295",
 
 	-- 🔍 SEARCH
 	["Search Icon Color"] = Color3.fromRGB(240, 240, 230),

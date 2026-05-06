@@ -11,7 +11,7 @@ getgenv().Nousigi = true
 
 local DisableAnimation = game.Players.LocalPlayer.PlayerGui:FindFirstChild('TouchGui')
 
-local Blue = Color3.fromRGB(0, 170, 255)
+local Blue = Color3.fromRGB(255, 255, 255)
 
 local T1UIColor = {
 	-- 🔵 CORE
